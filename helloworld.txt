@@ -1,0 +1,1 @@
+program => line line => number statement CR line => 10 statement CR line => 10 PRINT expr-list CR line => 10 PRINT string CR line => 10 PRINT "Hello, world" CR line =>  10 PRINT "Hello, world" CR number statement CR => 10 PRINT "Hello, world" CR 20 statement CR => 10 PRINT "Hello, world" CR 20 END CR
